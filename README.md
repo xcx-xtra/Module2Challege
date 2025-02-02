@@ -1,2 +1,1 @@
-# Module2Challege
-Miles Per Gallon Calculator 
+# Miles-Per-Gallon-Calculator
